@@ -1,0 +1,10 @@
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\bin\Debug\WindowsForms_Timer.exe.config
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\bin\Debug\WindowsForms_Timer.exe
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\bin\Debug\WindowsForms_Timer.pdb
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\obj\Debug\WindowsForms_Timer.csproj.AssemblyReference.cache
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\obj\Debug\WindowsForms_Timer.Form1.resources
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\obj\Debug\WindowsForms_Timer.Properties.Resources.resources
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\obj\Debug\WindowsForms_Timer.csproj.GenerateResource.cache
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\obj\Debug\WindowsForms_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\obj\Debug\WindowsForms_Timer.exe
+C:\Users\Wolf Tim\source\repos\WindowsForms_Timer\WindowsForms_Timer\obj\Debug\WindowsForms_Timer.pdb
